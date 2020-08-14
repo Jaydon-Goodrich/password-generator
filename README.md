@@ -8,3 +8,6 @@ The app checks for valid user input that it is a number between 8-128.
 
 The app checks to make sure at least one character type is used.
 
+The site is deployed at https://jaydon-goodrich.github.io/password-generator/
+
+![](passwordGen.png)
