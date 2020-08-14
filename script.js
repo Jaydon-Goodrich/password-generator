@@ -5,8 +5,6 @@ var upperCase = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M'
 var numArr = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '0'];
 var specArr = ['!', '"', '#', '$', '%', '&', "'", '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', ' ', "\\"];
 
-console.log(numArr.length);
-console.log(specArr.length);
 // generatePassword function declaration
 var generatePassword = function () {
   var charAmount = window.prompt("How many characters would you like your password to have 8-128");
