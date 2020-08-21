@@ -24,7 +24,7 @@ var generatePassword = function () {
     //Creates the variable for the new password that will be returned
     var newPass = "";
     for (var i = 0; i < charAmount; i) {
-      debugger;
+      
       if (isLower === true) {
         newPass += lowerCase[Math.floor(Math.random() * 26)];
         i++;
